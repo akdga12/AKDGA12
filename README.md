@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logodocker&logoColor=white">
 <h2> 졸업전까지 목표 </h2>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logogithub&logoColor=white">
+<img src="https://img.shields.io/badge/microsoftword-2B579A?style=for-the-badge&logomicrosoftword&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logohtml5&logoColor=white">
