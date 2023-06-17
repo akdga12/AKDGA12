@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logodocker&logoColor=white">
 <h2> 졸업전까지 목표 </h2>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logogithub&logoColor=white">
