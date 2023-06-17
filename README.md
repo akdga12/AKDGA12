@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <br />
 <h2> My techh stack </h2>
+![JavaScript] (https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logocolor=000000&labelColor=%23F71C&color=%23FFCE5A)
