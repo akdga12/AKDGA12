@@ -1,4 +1,4 @@
-### Hi there 👋
+### 세명대학교 20학번 김대석입니다. 👋
 
 <!--
 **akdga12/AKDGA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <h2> My techh stack </h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=for-the-badge&logo=Microsoftpowerpoint&logoColor=white">
